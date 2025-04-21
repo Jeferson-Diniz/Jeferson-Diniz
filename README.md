@@ -42,8 +42,8 @@ Sou um desenvolvedor apaixonado por tecnologia, automação, inovação, sempre 
 ![](https://github-readme-stats.vercel.app/api?username=Jeferson-Diniz&theme=dark&locale=pt-br&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jeferson-Diniz&theme=dark&locale=pt-br&hide_border=true)
 
-<code>[![](https://visitcount.itsvg.in/api?id=Jeferson-Diniz&icon=0&color=12)](https://visitcount.itsvg.in)</code>
+<code>![](https://profile-counter.glitch.me/Jeferson-Diniz/count.svg)</code>
 
-[discord]: https://discordapp.com/users/291397969222041601
+[discord]: https://discord.gg/wVrdYkTgNh
 [linkedin]: https://www.linkedin.com/in/ojefersondiniz/
 [instagram]: https://instagram.com/ojefersondiniz
